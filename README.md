@@ -4,7 +4,7 @@ I'm a junior CS student based in Indonesia 🇮🇩. My programming journey bega
 
 I started off with C, learning quite deep, and was able to create a command line game with AWSD key controls. Come my second semester, I entered the selection for a lab assistant position and was happy to be chosen. This opportunity led me to learn more advanced programming languages such as Java, Python, ReactJS, SQL, and C++.
 
-Currently, my focus is honed on Cloud Technology (AWS) and mobile programming (Android and iOS).
+Currently, my focus is on Cloud Technology (AWS) and mobile programming (Android and iOS).
 
 Outside coding, I like music 🎵. I play the violin, drums, keyboards, tenor horn, and have a basic understanding of many other instruments! Sometimes, I channel my creativity through learning and producing music in my spare time.
 
